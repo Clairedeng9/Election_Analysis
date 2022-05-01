@@ -22,15 +22,13 @@ After running scripts for election audit data, the analysis of the election show
 ![image](https://user-images.githubusercontent.com/103073631/166114616-8ab7cda1-f8e3-4d65-a14d-30ac39863d44.png)
 
 ## Election-Audit Summary
+To be more flexibele for election audit purpose, this script can be used with some modifications for any election, providing below scripts as examples to show the reasons.
+1. Apply to any election commissions, first screenshot will collect candidate's names row by row, and next no matter how many different candidates in the election next scrip will generate a complete candidate list.
+![image](https://user-images.githubusercontent.com/103073631/166167483-4aabf750-72c9-4410-8e4f-0a584c23105e.png)
+![image](https://user-images.githubusercontent.com/103073631/166167373-828b9bdc-65cb-466f-a071-4d3b96b7a41f.png)
 
+2. By using below two screenshot codes, the election commission will know the total votes in any election.
+![image](https://user-images.githubusercontent.com/103073631/166167577-611435b0-53e9-401b-bc54-61f49d3dd34a.png)
+![image](https://user-images.githubusercontent.com/103073631/166167461-92c188fa-7818-4744-9723-c1c04c44603c.png)
 
-Explain the purpose of this election audit analysis.
-
-Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
-
-How many votes were cast in this congressional election?
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-Which county had the largest number of votes?
-Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+Overall, by seeing the result of the analysis election and the sample scripts applying to this election project, this script is ideally and flexibly suited for any other elections.
